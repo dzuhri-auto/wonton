@@ -96,7 +96,7 @@ To buy cheap proxy, [buy cheap proxy here](https://proxy-seller.com/?partner=QJG
 Run the following command to clone the repository:
 
 ```shell
-git clone https://github.com/dzuhri-auto/seed-coin.git
+git clone https://github.com/dzuhri-auto/wonton.git
 ```
 
 ### Step 2: Navigate to the Project Folder
@@ -104,7 +104,7 @@ git clone https://github.com/dzuhri-auto/seed-coin.git
 Once cloned, navigate to the project directory:
 
 ```shell
-cd seed-coin
+cd wonton
 ```
 
 ### Step 3: Install the Dependencies
